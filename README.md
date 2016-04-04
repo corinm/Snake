@@ -2,7 +2,7 @@
 Version of the game Snake, based on a Youtube tutorial but heavily improved based on techniques from other tutorials
 
 <p align="center">
-  <img src="https://github.com/corinm/Snake/blob/master/resources/GitHub_Snake1.png?raw=true" width="350" height="381" alt="Screenshot showing Snake game"/>
+  <img src="https://github.com/corinm/Snake/blob/master/resources/GitHub_Snake1.png?raw=true" width="350" height="381" alt="Screenshot showing Snake game"/><br />
   Click for full-sized image
 </p>
 
