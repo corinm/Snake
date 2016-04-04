@@ -1,7 +1,7 @@
 # Snake
 Version of the game Snake, based on a Youtube tutorial but heavily improved based on techniques from other tutorials
 
-![alt text]( "Screenshot showing Snake game")
+![alt text](https://github.com/corinm/Snake/blob/master/resources/GitHub_Snake1.png?raw=true "Screenshot showing Snake game")
 
 ## Based on a tutorial
 This game is based on the Youtube tutorial by BrandonioProductions titled 'Making Snake in Java'  
