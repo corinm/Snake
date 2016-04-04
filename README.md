@@ -1,6 +1,8 @@
 # Snake
 Version of the game Snake, based on a Youtube tutorial but heavily improved based on techniques from other tutorials
 
+![alt text]( "Screenshot showing Snake game")
+
 ## Based on a tutorial
 This game is based on the Youtube tutorial by BrandonioProductions titled 'Making Snake in Java'  
 Tutorial, part 1: https://www.youtube.com/watch?v=FABTl1Q1byw.
